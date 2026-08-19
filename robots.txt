@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Recursos necessários à renderização — não bloquear
+Allow: /assets/
+
+Sitemap: https://pileri.adv.br/sitemap.xml
